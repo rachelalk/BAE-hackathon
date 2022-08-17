@@ -51,6 +51,12 @@
   }
 }
 
+
+*{
+  background-color: green;
+  
+}
+
 .carousel {
   margin-top: 100px;
   height: 35vh;
