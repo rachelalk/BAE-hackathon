@@ -1,1 +1,24 @@
-plan
+Ideas - 
+
+- Scoring system similar to credit scores
+        - gives tips/insights - suggests ways to improve score 
+        - Log what you are doing right
+        -Calculate individual carbon footprint
+        - Input :
+                -Transport
+                -Food shopping - supermarkets
+                -Energy/water consumption
+
+-Team scoreboard
+        -work as a team to get the highest score
+        -teams within the business
+        -Veganuary and similar - taking part and succeeding gets extra points
+
+
+
+
+Timings for the day:
+        10-12   - Wireframes - mock UI - link together via figma
+        1-2 - Start to code - basic landing page
+        2-2:30 - any tweaks needed
+        2:30 - 3 - Presentation
