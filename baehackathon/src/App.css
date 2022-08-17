@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.navbar{
+  display: flex;
+  justify-content: center;
+  font-family: 'Jockey One';
+}
+
+.logo{
+  filter: brightness(0);
+  width: 2em;
+  height: 2em;
+  padding-top: 1.9em;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

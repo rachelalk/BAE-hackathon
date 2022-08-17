@@ -1,12 +1,11 @@
 import './App.css';
 import ScoreCard from './Components/ScoreCard';
-// import { ChakraProvider } from '@chakra-ui/react'
-// import { Menu } from '@chakra-ui/react';
+import NavBar from './Components/navbar';
 
 function App() {
   return (
     <div className="App">
- 
+        <NavBar/>
         <ScoreCard/>
     
 

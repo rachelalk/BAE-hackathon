@@ -1,12 +1,11 @@
-import React from 'react'
+import React from "react";
 
-const componentName = () => {
-    return (
-        <div>
+const Hamburger = () => {
+  return (
+    <div className="menu">
+      <p>Menu</p>
+    </div>
+  );
+};
 
-            
-        </div>
-    )
-}
-
-export default componentName
+export default Hamburger;
