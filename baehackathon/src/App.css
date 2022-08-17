@@ -1,5 +1,8 @@
 .App {
+  display: flex;
   text-align: center;
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
@@ -26,6 +29,55 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.carousel {
+  margin-top: 100px;
+  height: 35vh;
+  width: 30vw;
+}
+
+.slide {
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  width: 20vw;
+  background-color: #D9D9D9;
+  border: solid;
+  border-color: #D9D9D9;
+  border-radius: 8%;
+  justify-content: space-around;
+
+}
+
+.swiper-text {
+  background-color: white;
+  filter: drop-shadow(5px 10px 4px #c4c4c5);
+  border: solid;
+  border-color: white;
+  border-radius: 12%;
+  width: 8vw;
+  margin: auto;
+}
+
+.swiper-image {
+  display: flex;
+  margin: auto;
+  max-width: 18vw;
+  height: 25vh;
+  filter: drop-shadow(5px 10px 4px #c4c4c5);
+}
+
+.carousel-image {
+  display: flex;
+  margin: auto;
+  height: 25vh;
+  max-width: 18vw;
+  object-fit: cover;
+}
+
+.swiper-margin {
+  height: 2%;
 }
 
 @keyframes App-logo-spin {
