@@ -1,13 +1,12 @@
-import React from 'react'
-import {HamburgerIcon} from "@chakra-ui/icons";
+import React from "react";
 
 const NavBar = () => {
-    return (
-        <div className='navbar'>
-            <h1>Green Steps</h1>
-            <HamburgerIcon/>
-        </div>
-    )
-}
+  return (
+    <div className="navbar">
+      <img className="logo" src={require("../bx_leaf.png")} alt="logo" />
+      <h1>Green Steps</h1>
+    </div>
+  );
+};
 
-export default NavBar
+export default NavBar;
