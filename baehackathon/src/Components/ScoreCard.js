@@ -13,7 +13,7 @@ function ScoreCard() {
               </div>
               <div className='score-Text'>
                   <h4 >you're doing great!</h4>
-              </div>      
+              </div>
               <div class="rating">50%</div>
               <div class="rating">62%</div>
               
