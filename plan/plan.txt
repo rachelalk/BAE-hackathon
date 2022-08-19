@@ -22,3 +22,14 @@ Timings for the day:
         1-2 - Start to code - basic landing page
         2-2:30 - any tweaks needed
         2:30 - 3 - Presentation
+
+What the app does/why we thought it a good Idea
+Tracks and scores positive env choices
+Element of competition
+Solo and team features, peer encouragement etc
+
+How we would build the app, tech/functionality
+react native, mobile approach
+
+Backend
+relational db with table for each question, numerical value attached for scoring purposes
